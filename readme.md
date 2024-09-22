@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7u4obf5nkiss1ipp/branch/main?svg=true)](https://ci.appveyor.com/project/holllygun/inheritance/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/8tlv3hxrp3kpiv2w?svg=true)](https://ci.appveyor.com/project/holllygun/classes-methods)
