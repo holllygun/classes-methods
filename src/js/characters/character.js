@@ -1,5 +1,3 @@
-import { types } from "@babel/core";
-
 export default class Character {
     constructor(name, type) { 
         const types = ["Bowman", "Swordsman", "Magician", "Daemon", "Undead", "Zombie"]
